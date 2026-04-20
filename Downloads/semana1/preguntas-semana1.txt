@@ -1,0 +1,21 @@
+Pregunta 1
+Respuesta B
+
+Pregunta 2
+Respuesta C
+
+Pregunta 3
+Respuesta B
+
+Pregunta 4
+Respuesta/ El uso responsable de la información en internet es fundamental para una ciudadanía digital consciente, ya que permite compartir contenido verificado y evitar la desinformación. Cuando las personas revisan y analizan lo que publican, contribuyen a una comunidad más confiable y respetuosa. Esto se relaciona con la participación ciudadana, porque una sociedad bien informada puede opinar, debatir y tomar decisiones de manera más crítica y responsable. Además, la organización del trabajo técnico con herramientas como Git permite llevar un control ordenado de los cambios y facilita la colaboración entre varias personas. Git ayuda a mantener transparencia y responsabilidad en los proyectos. De esta manera, tanto en lo social como en lo técnico, se promueve el orden, la ética y el trabajo colaborativo. En conjunto, estas prácticas fortalecen el uso adecuado de la tecnología en la vida diaria.
+
+Pregunta 5
+Respuesta 
+1.Buscar la información en internet
+2.Revisar la fuente de donde proviene
+3.Confirmar la noticia en otras páginas confiables
+4.Verificar la fecha de publicación
+5.Analizar si el contenido es objetivo y verídico
+6.Evitar compartir si hay dudas sobre su veracidad
+7.Compartir la información de manera responsable
