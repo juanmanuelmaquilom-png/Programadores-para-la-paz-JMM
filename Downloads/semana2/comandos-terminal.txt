@@ -5,4 +5,4 @@ cd semana2
 git status
 git add .
 git commit
-git push
+git push  
