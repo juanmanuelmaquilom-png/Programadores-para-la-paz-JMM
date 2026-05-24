@@ -1,0 +1,15 @@
+¿Qué hace esta ruta?
+
+Esta ruta crea un endpoint POST llamado /reporte. Su función es recibir un mensaje enviado desde el cliente mediante req.body.mensaje y responder con un objeto JSON indicando que el reporte fue recibido junto con el mensaje enviado.
+
+¿Para qué podría servir en una aplicación comunitaria?
+
+Podría servir para que los usuarios envíen reportes o avisos dentro de una comunidad, por ejemplo:
+
+- Reportar daños en vías públicas.
+- Informar problemas de seguridad.
+- Enviar quejas o sugerencias.
+- Reportar fallas en servicios públicos.
+- Compartir alertas o novedades importantes para los ciudadanos.
+
+De esta manera, la aplicación puede recopilar información enviada por los miembros de la comunidad y gestionarla de forma organizada.
