@@ -1,0 +1,11 @@
+node server.js:
+ Inicia (enciende) el servidor
+
+La terminal:
+ muestra "Servidor ejecutándose en puerto 3000"
+ 
+/estado:
+ {
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
