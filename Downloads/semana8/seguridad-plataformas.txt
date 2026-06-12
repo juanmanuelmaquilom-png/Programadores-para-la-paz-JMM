@@ -1,0 +1,5 @@
+1. No exponer datos personales: Anonimizar o cifrar la información sensible de los miembros de la comunidad en las bases de datos.
+2. Proteger credenciales: Implementar políticas de contraseñas robustas y exigir la activación de la autenticación de doble factor (2FA) a los administradores.
+3. Usar conexiones seguras: Forzar el uso de protocolos seguros como HTTPS (mediante certificados SSL/TLS) para proteger el tráfico de datos.
+4. Registrar accesos: Mantener un historial o log de auditoría de los accesos y modificaciones críticas realizadas en la plataforma.
+5. Limitar acceso a información sensible: Aplicar el principio de menor privilegio, otorgando permisos de edición o visualización únicamente a los roles que estrictamente lo requieran.
