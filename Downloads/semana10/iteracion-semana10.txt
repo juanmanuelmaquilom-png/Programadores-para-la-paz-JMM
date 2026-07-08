@@ -1,0 +1,16 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+- Tarea 1: Como ciudadano quiero registrar una incidencia con fotos y ubicación para dejar evidencia clara del caso de corrupción o descuido de obras públicas.[cite: 1]
+- Tarea 2: Como miembro del comité de veeduría quiero consultar y filtrar los reportes ciudadanos para hacer seguimiento al estado de las obras locales.[cite: 1]
+
+2. ¿Por qué son las más importantes?
+- Crean el flujo central: Estas dos tareas completan el ciclo básico del sistema. No tiene sentido tener alertas o estados si no hay reportes creados ni forma de verlos.[cite: 1]
+- Mitigan el riesgo técnico: La tarea 1 implica gestionar archivos (fotos) y coordenadas (ubicación), que son los componentes técnicos más complejos del backlog.[cite: 1]
+- Bloquean el resto de funcionalidades: Las historias de alertas de Telegram, estados del reporte y exportación a PDF dependen completamente de que los datos ya existan y se puedan consultar.[cite: 1]
+
+3. ¿Qué significa para ti que una tarea esté “terminada”?
+Significa que la funcionalidad es completamente operativa, estable, segura para el usuario final y que el código cumple con los estándares de calidad del equipo sin romper ninguna función existente.
+
+4. Definición de terminado (DoD):
+- Funciona según los criterios de aceptación: El usuario puede ejecutar la acción (ej. registrar la incidencia o filtrar reportes) sin errores en la interfaz.[cite: 1]
+- Código limpio y respaldado en Git: El código fue revisado, no tiene errores de sintaxis y quedó guardado en la rama correspondiente de GitHub.
+- Pruebas superadas: La funcionalidad fue probada con datos reales (como imágenes y ubicaciones válidas) asegurando que no tumba el sistema.[cite: 1]

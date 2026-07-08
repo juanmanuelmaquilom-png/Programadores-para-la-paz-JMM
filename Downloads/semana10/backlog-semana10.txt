@@ -1,0 +1,7 @@
+
+
+1.Como ciudadano quiero registrar una incidencia con fotos y ubicación para dejar evidencia clara del caso de corrupción o descuido de obras públicas.
+2.Como miembro del comité de veeduría quiero consultar y filtrar los reportes ciudadanos para hacer seguimiento al estado de las obras locales.
+3.Como coordinador de la veeduría quiero recibir una alerta en Telegram para revisar y validar de inmediato un nuevo reporte crítico ingresado.
+4.Como ciudadano quiero ver el estado de mi reporte (recibido, en revisión, resuelto) para saber si las autoridades o los veedores están actuando.
+5.Como veedor comunitario quiero exportar un reporte en PDF con las denuncias del mes para presentarlo formalmente ante la alcaldía.
