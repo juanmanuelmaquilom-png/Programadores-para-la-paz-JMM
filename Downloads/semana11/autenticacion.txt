@@ -1,0 +1,14 @@
+Concepto: Login (Inicio de sesión)
+
+Descripción:
+El login permite identificar a un usuario antes de darle acceso a ciertas funciones de la aplicación.
+
+Concepto: Rutas protegidas
+
+Descripción:
+Algunas rutas deben estar protegidas porque pueden contener información privada, registros internos o acciones que no deberían estar disponibles para cualquier persona sin la autorización adecuada.
+
+Concepto: Información confidencial
+
+Descripción:
+No se deben exponer públicamente contraseñas, documentos de identidad, teléfonos, direcciones, tokens, claves de API ni ningún tipo de datos sensibles de la comunidad.

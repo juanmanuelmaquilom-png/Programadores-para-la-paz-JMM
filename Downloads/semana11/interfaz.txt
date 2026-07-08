@@ -1,0 +1,21 @@
+Aquí tienes el texto estructurado en un formato directo y limpio, listo para copiar y pegar:
+
+Sección: Formulario de creación
+
+Descripción:
+La interfaz tendría una sección dedicada a crear una nueva causa comunitaria, incluyendo campos para ingresar el título, la descripción y la fecha de finalización.
+
+Sección: Vista de causas disponibles
+
+Descripción:
+Contaría con una lista principal que muestre todas las causas que están activas y disponibles para que los usuarios puedan navegar por ellas y leerlas fácilmente.
+
+Componente: Botón de apoyo y contador
+
+Descripción:
+Cada causa dentro de la lista tendría un botón de apoyo para que los usuarios puedan sumarse a la iniciativa, acompañado de un contador numérico que muestre en tiempo real cuántas personas la han apoyado.
+
+Diseño y Seguridad:
+
+Descripción:
+La interfaz debe ser clara, sencilla y visualmente organizada. Bajo ninguna circunstancia debe mostrar información privada o sensible de los usuarios que interactúan con la plataforma.

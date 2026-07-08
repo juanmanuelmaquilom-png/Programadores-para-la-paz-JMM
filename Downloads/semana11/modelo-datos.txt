@@ -1,0 +1,33 @@
+Entidad: Usuario
+
+Campos principales:
+
+id
+
+nombre_completo
+
+correo_electronico
+
+fecha_registro
+
+rol
+
+Propósito:
+Gestionar el perfil de las personas que participan en la plataforma, permitiendo identificarlas cuando crean una causa o apoyan una iniciativa existente.
+
+Entidad: Comentario
+
+Campos principales:
+
+id
+
+causa_id
+
+usuario_id
+
+texto
+
+fecha_publicacion
+
+Propósito:
+Permitir la interacción y el debate entre los miembros de la comunidad dentro de cada causa, facilitando la retroalimentación y la organización de los participantes.

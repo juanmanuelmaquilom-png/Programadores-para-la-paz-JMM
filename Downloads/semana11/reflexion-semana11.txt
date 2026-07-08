@@ -1,0 +1,14 @@
+Base de Datos
+
+Propósito:
+Es el motor de almacenamiento de la plataforma. Permite la persistencia de los datos para que las causas, apoyos y comentarios no se borren al cerrar la aplicación. Además, organiza la información de forma relacional (saber qué usuario apoyó qué causa) y permite manejar el crecimiento de la comunidad de manera escalable.
+
+Autenticación de Usuarios
+
+Propósito:
+Es el mecanismo que valida la identidad de las personas mediante el inicio de sesión. Evita el fraude al impedir que una sola persona o un bot cree cuentas falsas para inflar el apoyo a una causa. También vincula cada acción a un ciudadano real para promover la responsabilidad y permite ofrecer una experiencia personalizada.
+
+Protección de Información
+
+Propósito:
+Es el escudo de seguridad que resguarda los datos sensibles mediante rutas protegidas y encriptación. Garantiza la privacidad de los ciudadanos al no exponer públicamente correos, teléfonos o documentos, previene ataques malintencionados que alteren los datos del sistema y asegura el cumplimiento de las leyes legales de protección de datos.
