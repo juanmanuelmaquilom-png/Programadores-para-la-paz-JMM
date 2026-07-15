@@ -1,0 +1,5 @@
+1. Una Persona una Noticia
+2. La notica queda regitrada en la base de datos
+3.Otro ciudados leen la notica y dan sus aportes
+4.El sistema revisa sus aportes
+5.EL sistema genera un Documento PDF con la peticion
